@@ -8,5 +8,6 @@
 | [0608-tree-node](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0608-tree-node) |
 | [0626-exchange-seats](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0626-exchange-seats) |
 | [1158-market-analysis-i](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1158-market-analysis-i) |
+| [1174-immediate-food-delivery-ii](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
