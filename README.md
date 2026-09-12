@@ -11,4 +11,5 @@
 | [1158-market-analysis-i](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1158-market-analysis-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1193-monthly-transactions-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1204-last-person-to-fit-in-the-bus) |
 <!---LeetCode Topics End-->
