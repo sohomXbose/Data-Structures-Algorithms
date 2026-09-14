@@ -17,4 +17,5 @@
 | [1341-movie-rating](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1341-movie-rating) |
 | [1907-count-salary-categories](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1934-confirmation-rate) |
+| [3586-find-covid-recovery-patients](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3586-find-covid-recovery-patients) |
 <!---LeetCode Topics End-->
