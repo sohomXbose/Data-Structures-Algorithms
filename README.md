@@ -19,6 +19,7 @@
 | [1934-confirmation-rate](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1934-confirmation-rate) |
 | [3220-odd-and-even-transactions](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3421-find-students-who-improved) |
+| [3475-dna-pattern-recognition](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3497-analyze-subscription-conversion) |
 | [3521-find-product-recommendation-pairs](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3521-find-product-recommendation-pairs) |
 | [3586-find-covid-recovery-patients](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3586-find-covid-recovery-patients) |
