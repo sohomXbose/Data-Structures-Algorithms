@@ -24,6 +24,7 @@
 | [3482-analyze-organization-hierarchy](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3482-analyze-organization-hierarchy) |
 | [3497-analyze-subscription-conversion](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3497-analyze-subscription-conversion) |
 | [3521-find-product-recommendation-pairs](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3521-find-product-recommendation-pairs) |
+| [3554-find-category-recommendation-pairs](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3554-find-category-recommendation-pairs) |
 | [3564-seasonal-sales-analysis](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3564-seasonal-sales-analysis) |
 | [3580-find-consistently-improving-employees](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3580-find-consistently-improving-employees) |
 | [3586-find-covid-recovery-patients](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3586-find-covid-recovery-patients) |
