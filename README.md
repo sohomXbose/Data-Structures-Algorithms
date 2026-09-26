@@ -21,6 +21,7 @@
 | [1934-confirmation-rate](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1934-confirmation-rate) |
 | [3220-odd-and-even-transactions](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3421-find-students-who-improved) |
+| [3451-find-invalid-ip-addresses](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3451-find-invalid-ip-addresses) |
 | [3475-dna-pattern-recognition](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3475-dna-pattern-recognition) |
 | [3482-analyze-organization-hierarchy](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3482-analyze-organization-hierarchy) |
 | [3497-analyze-subscription-conversion](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3497-analyze-subscription-conversion) |
