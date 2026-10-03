@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0175-combine-two-tables) |
 | [0185-department-top-three-salaries](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0262-trips-and-users) |
 | [0550-game-play-analysis-iv](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0550-game-play-analysis-iv) |
