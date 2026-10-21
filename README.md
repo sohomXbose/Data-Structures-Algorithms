@@ -19,6 +19,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0585-investments-in-2016) |
 | [0601-human-traffic-of-stadium](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0601-human-traffic-of-stadium) |
 | [0608-tree-node](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0608-tree-node) |
 | [0626-exchange-seats](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0626-exchange-seats) |
