@@ -27,6 +27,7 @@
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0608-tree-node) |
+| [0619-biggest-single-number](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0626-exchange-seats) |
 | [1070-product-sales-analysis-iii](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1070-product-sales-analysis-iii) |
 | [1158-market-analysis-i](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1158-market-analysis-i) |
