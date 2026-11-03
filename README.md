@@ -31,6 +31,7 @@
 | [0620-not-boring-movies](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/0627-swap-sex-of-employees) |
+| [1045-customers-who-bought-all-products](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1070-product-sales-analysis-iii) |
 | [1158-market-analysis-i](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1158-market-analysis-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1174-immediate-food-delivery-ii) |
