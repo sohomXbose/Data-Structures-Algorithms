@@ -36,6 +36,7 @@
 | [1068-product-sales-analysis-i](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1075-project-employees-i) |
+| [1084-sales-analysis-iii](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1084-sales-analysis-iii) |
 | [1158-market-analysis-i](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1158-market-analysis-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1193-monthly-transactions-i) |
