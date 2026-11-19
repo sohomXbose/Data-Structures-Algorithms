@@ -46,6 +46,7 @@
 | [1204-last-person-to-fit-in-the-bus](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1341-movie-rating) |
 | [1907-count-salary-categories](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1907-count-salary-categories) |
