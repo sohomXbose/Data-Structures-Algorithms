@@ -48,6 +48,7 @@
 | [1251-average-selling-price](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1321-restaurant-growth) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1341-movie-rating) |
 | [1907-count-salary-categories](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1934-confirmation-rate) |
