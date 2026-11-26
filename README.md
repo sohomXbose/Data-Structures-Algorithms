@@ -53,6 +53,7 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1407-top-travellers) |
+| [1484-group-sold-products-by-the-date](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1484-group-sold-products-by-the-date) |
 | [1907-count-salary-categories](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/1934-confirmation-rate) |
 | [3220-odd-and-even-transactions](https://github.com/sohomXbose/Data-Structures-Algorithms/tree/master/3220-odd-and-even-transactions) |
